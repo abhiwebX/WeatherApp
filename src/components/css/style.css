@@ -1,0 +1,69 @@
+* {
+  background-color: aqua;
+}
+.box {
+  background-color: white;
+  width: 30%;
+  margin: auto;
+  margin-top: 10%;
+  height: 350px;
+  border-radius: 10px;
+  padding: 5px;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 40px 190px 20px;
+}
+.inputData {
+  width: 100%;
+  background: none;
+}
+.inputData .inputFeild {
+  width: 80%;
+  padding: 10px;
+  border: 1px solid black;
+  background-color: white;
+  border-radius: 50px;
+  margin: 5% 10%;
+  font-size: 20px;
+  font-weight: bold;
+  font-variant: small-caps;
+  box-sizing: border-box;
+  padding-left: 10%;
+}
+.info {
+  height: 100%;
+  margin: 5% auto;
+  background-color: white;
+}
+.location {
+  background-color: white;
+  font-size: 50px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+
+  margin: 10px 30%;
+}
+.temp {
+  margin: auto 35%;
+  background-color: white;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.tempmin_max {
+  margin: 5% 15%;
+  background-color: white;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 24px;
+}
+#ii {
+  background-color: white;
+  margin-right: 10px;
+  color: rgb(127, 179, 225);
+}
+.errorMsg {
+  background-color: white;
+  font-size: xx-large;
+  text-align: center;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  padding: 10px;
+}
+.abhijeet {
+  text-align: right;
+  padding-right: 20px;
+}
